@@ -7,4 +7,6 @@ TODO list:
 
 3. Fata includes a "wordcloud" part. We can explore it for fun :)
 
+4. I'm interested to see our network graph, will try to make it work using Tensorboard. Should be fun to see!
+
 ** add any if you can think of
